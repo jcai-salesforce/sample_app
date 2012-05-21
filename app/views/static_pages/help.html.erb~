@@ -1,0 +1,6 @@
+<% provide(:title, 'Help') %>
+<head>
+	<title>Ruby on Rails Tutorial Sample App | <%= yield(:title) %></title>
+</head>
+<h1>Help</h1>
+<p>help page for static pages</p>

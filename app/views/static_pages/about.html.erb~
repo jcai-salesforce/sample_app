@@ -1,0 +1,7 @@
+<% provide(:title, 'About Us') %>
+<head>
+	<title>Ruby on Rails Tutorial Sample App | <%= yield(:title) %></title>
+</head>
+<h1>About Us</h1>
+<p>This is the home page for the tutorial</p>
+
