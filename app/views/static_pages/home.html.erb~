@@ -1,5 +1,2 @@
-<% provide(:title, 'Home') %>
-<html>
-<h1>Sample App</h1>
+<h1>Ruby on Rails Tutorial Sample App</h1>
 <p>This is the home page for the tutorial</p>
-</html>
